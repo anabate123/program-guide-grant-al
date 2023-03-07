@@ -229,25 +229,8 @@
 	<listing timeslot="35" type="1" data2="34" data3="0" data4="0">Turks </listing>
 	<listing timeslot="37" type="1" data2="22" data3="0" data4="0">People of the Century</listing>
 </channel>
-<channel number="12" name="LIFE01">
-	<listing timeslot="9" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Designing Women </listing>
-	<listing timeslot="10" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Designing Women </listing>
-	<listing timeslot="11" type="1" data2="34" data3="0" data4="0">Next Door</listing>
-	<listing timeslot="12" type="1" data2="34" data3="0" data4="0">Attitudes</listing>
-	<listing timeslot="13" type="1" data2="34" data3="0" data4="0">Party of Five</listing>
-	<listing timeslot="15" type="1" data2="34" data3="0" data4="0">Chicago Hope</listing>
-	<listing timeslot="17" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Unsolved Mysteries </listing>
-	<listing timeslot="19" type="movie" data2="1" data3="18" data4="0">"See Jane Run" (1995) Joanna Kerns, John Shea. A thriller movie that alludes to the Dick and Jane series of children's learn-to-read books. (1 hr 31 min)
-        <listing timeslot="23" type="1" data2="34" data3="0" data4="0">Intimate Portrait</listing>
-	<listing timeslot="25" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Designing Women </listing>
-	<listing timeslot="26" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Designing Women </listing>
-	<listing timeslot="27" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Golden Girls </listing>
-	<listing timeslot="28" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Golden Girls </listing>
-	<listing timeslot="29" type="1" data2="34" data3="0" data4="0">Ellen</listing>
-	<listing timeslot="30" type="1" data2="34" data3="0" data4="0">Ellen</listing>
-	<listing timeslot="31" type="1" data2="34" data3="0" data4="0">Party of Five</listing>
-	<listing timeslot="33" type="1" data2="34" data3="0" data4="0">Chicago Hope</listing>
-	<listing timeslot="35" type="movie" data2="1" data3="18" data4="0">"Cries from the Heart" (1994) Patty Duke, Melissa Gilbert. A drama film. (2 hrs)</listing>
+<channel number="12" name="PRV" default="default" watchable="watchable">
+	<listing timeslot="1" type="1" data2="0" data3="0" data4="0">Prevue Channel</listing>
 </channel>
 <channel number="13" name="APTDC1">
 	<listing timeslot="9" type="1" data2="34" data3="0" data4="0">Mother Nature</listing>
@@ -409,7 +392,7 @@
 
 	<notice>Get our Showtime Value Package - Showtime, Sundance Channel and The Movie Channel for only $10.95 per month. Call (800)555-9485 to subscribe.</notice>
 </channel>
-<channel number="22" name="ESP002">
+<channel number="22" name="2ESPN">
 	<listing timeslot="9" type="1" data2=".5" data3="0" data4="0">NBA 2Night</listing>
 	<listing timeslot="10" type="1" data2=".5" data3="0" data4="0">NHL 2Night</listing>
 	<listing timeslot="11" type="1" data2=".5" data3="0" data4="0">Crunch Fitness</listing>
@@ -880,26 +863,25 @@
 	<listing timeslot="45" type="1" data2="34" data3="0" data4="0">Millennium</listing>
 	<listing timeslot="47" type="1" data2="34" data3="0" data4="0">Paid Programming</listing>
 </channel>
-<channel number="50" name="PBS244">
-	<listing timeslot="19" type="1" data2="0." data3="." data4=".">Instructional Programming (Cont.)</listing>
-	<listing timeslot="20" type="1" data2="22" data3="0" data4="0">Uncommon Knowledge</listing>
-	<listing timeslot="21" type="1" data2="34" data3="0" data4="0">Wonderful World of Art</listing>
-	<listing timeslot="22" type="1" data2="34" data3="0" data4="0" rating="G">Victory Garden </listing>
-	<listing timeslot="23" type="1" data2="34" data3="0" data4="0">Quilting from the Heartland</listing>
-	<listing timeslot="24" type="1" data2="34" data3="0" data4="0">Two Fat Ladies</listing>
-	<listing timeslot="25" type="1" data2="34" data3="0" data4="0">America Sews with Sue Hausmann</listing>
-	<listing timeslot="26" type="1" data2="19" data3="0" data4="0" rating="Y">Wishbone </listing>
-	<listing timeslot="27" type="1" data2="19" data3="0" data4="0" rating="Y">Dragon Tales </listing>
-	<listing timeslot="28" type="1" data2="19" data3="0" data4="0" rating="Y">Arthur </listing>
-	<listing timeslot="29" type="1" data2="34" data3="0" data4="0">Growing Old in a New Age</listing>
-	<listing timeslot="31" type="1" data2="22" data3="0" data4="0">BBC World News</listing>
-	<listing timeslot="32" type="1" data2="22" data3="0" data4="0">Nightly Business Report</listing>
-	<listing timeslot="33" type="1" data2="34" data3="0" data4="0">Real Orange</listing>
-	<listing timeslot="34" type="1" data2="34" data3="0" data4="0">Finbar Wright in Concert</listing>
-	<listing timeslot="37" type="1" data2="34" data3="0" data4="0">Viewer's Choice</listing>
-	<listing timeslot="43" type="1" data2="0" data3="0" data4="0">Viewer's Choice (Cont.)</listing>
-	<listing timeslot="47" type="1" data2="19" data3="0" data4="0" rating="Y">Wishbone </listing>
-	<listing timeslot="48" type="1" data2="19" data3="0" data4="0" rating="Y">Dragon Tales </listing>
+<channel number="50" name="LIFE01">
+	<listing timeslot="9" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Designing Women </listing>
+	<listing timeslot="10" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Designing Women </listing>
+	<listing timeslot="11" type="1" data2="34" data3="0" data4="0">Next Door</listing>
+	<listing timeslot="12" type="1" data2="34" data3="0" data4="0">Attitudes</listing>
+	<listing timeslot="13" type="1" data2="34" data3="0" data4="0">Party of Five</listing>
+	<listing timeslot="15" type="1" data2="34" data3="0" data4="0">Chicago Hope</listing>
+	<listing timeslot="17" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Unsolved Mysteries </listing>
+	<listing timeslot="19" type="movie" data2="1" data3="18" data4="0">"See Jane Run" (1995) Joanna Kerns, John Shea. A thriller movie that alludes to the Dick and Jane series of children's learn-to-read books. (1 hr 31 min)
+        <listing timeslot="23" type="1" data2="34" data3="0" data4="0">Intimate Portrait</listing>
+	<listing timeslot="25" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Designing Women </listing>
+	<listing timeslot="26" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Designing Women </listing>
+	<listing timeslot="27" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Golden Girls </listing>
+	<listing timeslot="28" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Golden Girls </listing>
+	<listing timeslot="29" type="1" data2="34" data3="0" data4="0">Ellen</listing>
+	<listing timeslot="30" type="1" data2="34" data3="0" data4="0">Ellen</listing>
+	<listing timeslot="31" type="1" data2="34" data3="0" data4="0">Party of Five</listing>
+	<listing timeslot="33" type="1" data2="34" data3="0" data4="0">Chicago Hope</listing>
+	<listing timeslot="35" type="movie" data2="1" data3="18" data4="0">"Cries from the Heart" (1994) Patty Duke, Melissa Gilbert. A drama film. (2 hrs)</listing>
 </channel>
 <channel number="51" name="TLC">
 	<listing timeslot="19" type="1" data2="34" data3="0" data4="0" rating="G">A Wedding Story </listing>
@@ -924,398 +906,6 @@
 	<listing timeslot="47" type="1" data2="22" data3="0" data4="0" rating="G">Turning Point </listing>
 	
 	<notice>In Greenhill Channel 51 is Greenhill Unified School District Programming</notice>
-</channel>
-<channel number="52" name="KVEA">
-	<listing timeslot="19" type="1" data2=".1" data3="7" data4="0">"Los dos hermanos" (1970) Jorge Rivero, Gregorio Casal. La joven esposa de un rico hacendado mayor tiene una aventura. (1 hr 29 min)</listing>
-	<listing timeslot="23" type="9" data2="34" data3="0" data4="0">Sevcec</listing>
-	<listing timeslot="25" type="9" data2="34" data3="0" data4="0">El y Ella</listing>
-	<listing timeslot="27" type="9" data2="34" data3="0" data4="0">Padre Alberto</listing>
-	<listing timeslot="29" type="9" data2="34" data3="0" data4="0">Ocurrió así</listing>
-	<listing timeslot="31" type="9" data2="22" data3="0" data4="0">Noticias</listing>
-	<listing timeslot="32" type="9" data2="22" data3="0" data4="0">Noticiero Telemundo</listing>
-	<listing timeslot="33" type="9" data2="34" data3="0" data4="0">Catalina y Sebastián</listing>
-	<listing timeslot="35" type="9" data2="34" data3="0" data4="0">Señora</listing>
-	<listing timeslot="37" type="9" data2="34" data3="0" data4="0">Amor de mi vida</listing>
-	<listing timeslot="39" type="9" data2="34" data3="0" data4="0">Juego Mortal</listing>
-	<listing timeslot="41" type="9" data2="22" data3="0" data4="0">Noticias</listing>
-	<listing timeslot="42" type="9" data2="22" data3="0" data4="0">Noticiero Telemundo</listing>
-	<listing timeslot="43" type="9" data2="34" data3="0" data4="0">Ocurrió así</listing>
-	<listing timeslot="45" type="9" data2="34" data3="0" data4="0">Buscando pareja</listing>
-	<listing timeslot="46" type="9" data2="34" data3="0" data4="0">Programas comerciales</listing>
-</channel>
-<channel number="53" name="LO708C">
-	<listing timeslot="1" type="1" data2="0" data3="0" data4="0">El Camino College</listing>
-</channel>
-<channel number="54" name="CMDW01">
-	<listing timeslot="19" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Daily Show </listing>
-	<listing timeslot="20" type="1" data2="34" data3="0" data4="0">Vs.</listing>
-	<listing timeslot="21" type="1" data2="34" data3="0" data4="0">Saturday Night</listing>
-	<listing timeslot="23" type="1" data2="34" data3="0" data4="0">Kids in the Hall</listing>
-	<listing timeslot="24" type="1" data2="34" data3="0" data4="0">Kids in the Hall</listing>
-	<listing timeslot="25" type="1" data2="34" data3="0" data4="0">One Night Stand</listing>
-	<listing timeslot="26" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Win Ben Stein's Money </listing>
-	<listing timeslot="27" type="movie" data2="1" data3="4" data4="0">"Mannequin 2: On the Move" (1991) Kristy Swanson, William Ragsdale. Another department-store dummy gets a life. (1 hr 35 min)</listing>
-	<listing timeslot="31" type="1" data2="34" data3="0" data4="0">Saturday Night</listing>
-	<listing timeslot="33" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Daily Show </listing>
-	<listing timeslot="34" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Win Ben Stein's Money </listing>
-	<listing timeslot="35" type="movie" data2="1" data3="4" data4="0">"Better Off Dead" (1985) John Cusack, David Ogden Stiers. Uneven comedy about a lovesick teenager. (1 hr 38 min)</listing>
-	<listing timeslot="39" type="1" data2="34" data3="0" data4="0">Strangers with Candy</listing>
-	<listing timeslot="40" type="1" data2="34" data3="0" data4="0">Upright Citizens Brigade</listing>
-	<listing timeslot="41" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Daily Show </listing>
-	<listing timeslot="42" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Win Ben Stein's Money </listing>
-	<listing timeslot="43" type="1" data2="34" data3="0" data4="0">Saturday Night</listing>
-	<listing timeslot="45" type="1" data2="34" data3="0" data4="0">Kids in the Hall</listing>
-	<listing timeslot="46" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Daily Show </listing>
-	<listing timeslot="47" type="movie" data2="1" data3="5" data4="0">"Irreconcilable Differences" (1984) Ryan O'Neal, Shelley Long. In Hollywood (where else?), a kid sues her squabbling parents for divorce. (1 hr 54 min)</listing>
-	
-	<notice>In Greenhill channel 54 is a Public, Educational, Government Access (PEG) channel</notice>
-</channel>
-<channel number="55" name="QVC1">
-	<listing timeslot="19" type="1" data2="34" data3="0" data4="0">Cleaning Solutions</listing>
-	<listing timeslot="21" type="1" data2="34" data3="0" data4="0">Gifts for Family and Friends</listing>
-	<listing timeslot="25" type="1" data2="34" data3="0" data4="0">Tech the Halls</listing>
-	<listing timeslot="27" type="1" data2="34" data3="0" data4="0">NFL Team Shop</listing>
-	<listing timeslot="31" type="1" data2="34" data3="0" data4="0">PM Style</listing>
-	<listing timeslot="35" type="1" data2="34" data3="0" data4="0">Gifts for Him</listing>
-	<listing timeslot="37" type="1" data2="34" data3="0" data4="0">Elienne Aigner: Anniversary Celebration</listing>
-	<listing timeslot="39" type="1" data2="34" data3="0" data4="0">Southwestern Jewelry</listing>
-	<listing timeslot="43" type="1" data2="34" data3="0" data4="0">Clothes Out</listing>
-	<listing timeslot="45" type="1" data2="34" data3="0" data4="0">Around the House</listing>
-	<listing timeslot="47" type="1" data2="34" data3="0" data4="0">Ring Showcase</listing>
-</channel>
-<channel number="56" name="KDOC">
-	<listing timeslot="19" type="9" data2="34" data3="0" data4="0">Perry Mason</listing>
-	<listing timeslot="21" type="9" data2="34" data3="0" data4="0">Matlock</listing>
-	<listing timeslot="23" type="9" data2="34" data3="0" data4="0">700 Club</listing>
-	<listing timeslot="25" type="9" data2="34" data3="0" data4="0" rating="G">Gunsmoke </listing>
-	<listing timeslot="27" type="9" data2="34" data3="0" data4="0">Streets of San Francisco</listing>
-	<listing timeslot="29" type="9" data2="34" data3="0" data4="0">Hawaii Five-O</listing>
-	<listing timeslot="31" type="9" data2="34" data3="0" data4="0">A-Team</listing>
-	<listing timeslot="33" type="9" data2="34" data3="0" data4="0">Rockford Files</listing>
-	<listing timeslot="35" type="9" data2="34" data3="0" data4="0">Infomercial</listing>
-	<listing timeslot="36" type="9" data2="34" data3="0" data4="0">Infomercial</listing>
-	<listing timeslot="37" type="9" data2="34" data3="0" data4="0">Matlock</listing>
-	<listing timeslot="39" type="9" data2="34" data3="0" data4="0">Perry Mason</listing>
-	<listing timeslot="41" type="9" data2="34" data3="0" data4="0">Hour of Healing</listing>
-	<listing timeslot="43" type="9" data2="34" data3="0" data4="0">Hot Seat with Wally George</listing>
-	<listing timeslot="44" type="9" data2="34" data3="0" data4="0">Infomercial</listing>
-	<listing timeslot="45" type="9" data2="34" data3="0" data4="0">Smash Hits</listing>
-	<listing timeslot="46" type="9" data2="34" data3="0" data4="0">Infomercial</listing>
-</channel>
-<channel number="57" name="PEG">
-	<listing timeslot="1" type="1" data2="0" data3="0" data4="0">Public, Educational &amp; Governmental Access</listing>
-</channel>
-<channel number="58" name="PBS243">
-	<listing timeslot="43" type="1" data2=".1" data3="3" data4="0">In Focus</listing>
-	<listing timeslot="20" type="1" data2="19" data3="0" data4="0" rating="Y">Wishbone </listing>
-	<listing timeslot="21" type="1" data2="19" data3="0" data4="0" rating="Y">Arthur </listing>
-	<listing timeslot="22" type="1" data2="34" data3="0" data4="0">World of Work ( 1:45) Power of Place</listing>
-	<listing timeslot="23" type="1" data2="34" data3="0" data4="0">( 2:15) Reef Quest</listing>
-	<listing timeslot="25" type="1" data2="34" data3="0" data4="0">In Italiano</listing>
-	<listing timeslot="26" type="1" data2="19" data3="0" data4="0" rating="Y">Barney &amp; Friends </listing>
-	<listing timeslot="27" type="1" data2="34" data3="0" data4="0" rating="G">California Missions </listing>
-	<listing timeslot="28" type="1" data2="34" data3="0" data4="0">Homework Hotline</listing>
-	<listing timeslot="29" type="1" data2="34" data3="0" data4="0">Homework Hotline</listing>
-	<listing timeslot="30" type="1" data2="34" data3="0" data4="0">Choices</listing>
-	<listing timeslot="31" type="1" data2="34" data3="0" data4="0" rating="TV-PG">In the Mix </listing>
-	<listing timeslot="32" type="1" data2="34" data3="0" data4="0">Teen Issues</listing>
-	<listing timeslot="33" type="1" data2="22" data3="0" data4="0">World News for Public Television</listing>
-	<listing timeslot="34" type="1" data2="34" data3="0" data4="0">In Focus</listing>
-	<listing timeslot="35" type="1" data2="34" data3="0" data4="0">The Nutcracker</listing>
-	<listing timeslot="37" type="1" data2="34" data3="0" data4="0">Christmas Is Coming</listing>
-	<listing timeslot="40" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Great Performances </listing>
-	<listing timeslot="43" type="1" data2="34" data3="0" data4="0">Charlie Horse Music Pizza</listing>
-</channel>
-<channel number="59" name="PUBACC">
-	<listing timeslot="19" type="1" data2="0" data3="0" data4="0">Public Access</listing>
-	<listing timeslot="20" type="1" data2="0" data3="0" data4="0">Public Access</listing>
-	<listing timeslot="21" type="1" data2="0" data3="0" data4="0">Public Access</listing>
-	<listing timeslot="22" type="1" data2="0" data3="0" data4="0">Public Access</listing>
-	<listing timeslot="23" type="1" data2="0" data3="0" data4="0">Public Access</listing>
-	<listing timeslot="24" type="1" data2="0" data3="0" data4="0">Public Access</listing>
-	<listing timeslot="25" type="1" data2="0" data3="0" data4="0">Public Access</listing>
-	<listing timeslot="26" type="1" data2="0" data3="0" data4="0">Public Access</listing>
-	<listing timeslot="27" type="1" data2="0" data3="0" data4="0">Public Access</listing>
-	<listing timeslot="28" type="1" data2="0" data3="0" data4="0">Public Access</listing>
-	<listing timeslot="29" type="1" data2="0" data3="0" data4="0">Public Access</listing>
-	<listing timeslot="30" type="1" data2="0" data3="0" data4="0">Public Access</listing>
-	<listing timeslot="31" type="1" data2="0" data3="0" data4="0">Public Access</listing>
-	<listing timeslot="32" type="1" data2="0" data3="0" data4="0">Public Access</listing>
-	<listing timeslot="33" type="1" data2="0" data3="0" data4="0">Public Access</listing>
-	<listing timeslot="34" type="1" data2="0" data3="0" data4="0">Public Access</listing>
-	<listing timeslot="35" type="1" data2="0" data3="0" data4="0">Public Access</listing>
-	<listing timeslot="36" type="1" data2="0" data3="0" data4="0">Public Access</listing>
-	<listing timeslot="37" type="1" data2="0" data3="0" data4="0">Public Access</listing>
-	<listing timeslot="38" type="1" data2="0" data3="0" data4="0">Public Access</listing>
-	<listing timeslot="39" type="1" data2="0" data3="0" data4="0">Public Access</listing>
-	<listing timeslot="40" type="1" data2="0" data3="0" data4="0">Public Access</listing>
-	<listing timeslot="41" type="1" data2="0" data3="0" data4="0">Public Access</listing>
-	<listing timeslot="42" type="1" data2="0" data3="0" data4="0">Public Access</listing>
-	<listing timeslot="43" type="1" data2="0" data3="0" data4="0">Public Access</listing>
-	<listing timeslot="44" type="1" data2="0" data3="0" data4="0">Public Access</listing>
-	<listing timeslot="45" type="1" data2="0" data3="0" data4="0">Public Access</listing>
-	<listing timeslot="46" type="1" data2="0" data3="0" data4="0">Public Access</listing>
-	<listing timeslot="47" type="1" data2="0" data3="0" data4="0">Public Access</listing>
-	<listing timeslot="48" type="1" data2="0" data3="0" data4="0">Public Access</listing>
-</channel>
-<channel number="60" name="ETV002">
-	<listing timeslot="19" type="1" data2="34" data3="0" data4="0">News Weekend</listing>
-	<listing timeslot="21" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Gossip Show </listing>
-	<listing timeslot="23" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Talk Soup </listing>
-	<listing timeslot="25" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Fashion Television </listing>
-	<listing timeslot="26" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Behind the Scenes </listing>
-	<listing timeslot="27" type="1" data2="34" data3="0" data4="0">True Hollywood Story</listing>
-	<listing timeslot="31" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Coming Attractions </listing>
-	<listing timeslot="32" type="1" data2="34" data3="0" data4="0">E! News Daily</listing>
-	<listing timeslot="33" type="1" data2="34" data3="0" data4="0">Fashion Emergency</listing>
-	<listing timeslot="34" type="1" data2="34" data3="0" data4="0">Search Party</listing>
-	<listing timeslot="35" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Talk Soup </listing>
-	<listing timeslot="36" type="1" data2="34" data3="0" data4="0">Mysteries and Scandals</listing>
-	<listing timeslot="37" type="1" data2="34" data3="0" data4="0" rating="TV-PG">True Hollywood Story </listing>
-	<listing timeslot="41" type="1" data2="34" data3="0" data4="0">Howard Stern</listing>
-	<listing timeslot="42" type="1" data2="34" data3="0" data4="0">Howard Stern</listing>
-	<listing timeslot="43" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Making of a Supermodel </listing>
-	<listing timeslot="45" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Talk Soup </listing>
-	<listing timeslot="46" type="1" data2="34" data3="0" data4="0">Search Party</listing>
-	<listing timeslot="47" type="1" data2="34" data3="0" data4="0">Howard Stern</listing>
-	<listing timeslot="48" type="1" data2="34" data3="0" data4="0">Howard Stern</listing>
-
-	<notice>In Greenhill, channel 60 is a Public, Educational and Government (PEG) channel</notice>
-</channel>
-<channel number="61" name="TRVL">
-	<listing timeslot="19" type="1" data2="34" data3="0" data4="0" rating="G">Adventure Crazy </listing>
-	<listing timeslot="20" type="1" data2="34" data3="0" data4="0" rating="G">Tourist </listing>
-	<listing timeslot="21" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Lonely Planet </listing>
-	<listing timeslot="23" type="1" data2="34" data3="0" data4="0" rating="G">Curiosities Around the World </listing>
-	<listing timeslot="24" type="1" data2="34" data3="0" data4="0" rating="G">Simply Unbelievable </listing>
-	<listing timeslot="25" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Once Upon an Island </listing>
-	<listing timeslot="27" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Adventure Bound </listing>
-	<listing timeslot="29" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Lonely Planet </listing>
-	<listing timeslot="31" type="1" data2="34" data3="0" data4="0" rating="G">Trailblazers </listing>
-	<listing timeslot="33" type="1" data2="34" data3="0" data4="0" rating="G">Amazing Destinations </listing>
-	<listing timeslot="35" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Lonely Planet </listing>
-	<listing timeslot="37" type="1" data2="34" data3="0" data4="0" rating="G">Trailblazers </listing>
-	<listing timeslot="39" type="1" data2="34" data3="0" data4="0" rating="G">Amazing Destinations </listing>
-	<listing timeslot="41" type="1" data2="34" data3="0" data4="0" rating="G">Curiosities Around the World </listing>
-	<listing timeslot="42" type="1" data2="34" data3="0" data4="0" rating="G">Simply Unbelievable </listing>
-	<listing timeslot="43" type="1" data2="34" data3="0" data4="0">Paid Programming</listing>
-</channel>
-<channel number="62" name="KRCA">
-	<listing timeslot="19" type="9" data2="22" data3="0" data4="0">Noticias</listing>
-	<listing timeslot="20" type="9" data2="34" data3="0" data4="0">La Bola</listing>
-	<listing timeslot="21" type="1" data2=".1" data3="18" data4="0">"Cine Los Angeles" (2 hrs)</listing>
-	<listing timeslot="25" type="9" data2="34" data3="0" data4="0">¡Qué buena TV!</listing>
-	<listing timeslot="27" type="9" data2="22" data3="0" data4="0">Noticias</listing>
-	<listing timeslot="28" type="movie" data2=".5" data3="0" data4="0">Score Final</listing>
-	<listing timeslot="29" type="9" data2="34" data3="0" data4="0">Paid Programming</listing>
-	<listing timeslot="30" type="9" data2="34" data3="0" data4="0">Paid Programming</listing>
-	<listing timeslot="31" type="9" data2="34" data3="0" data4="0">To Be Announced</listing>
-	<listing timeslot="32" type="9" data2="22" data3="0" data4="0">Little Saigon TV News</listing>
-	<listing timeslot="33" type="9" data2="22" data3="0" data4="0">ACTV News</listing>
-	<listing timeslot="35" type="9" data2="34" data3="0" data4="0">Panda TV Magazine</listing>
-	<listing timeslot="37" type="9" data2="34" data3="0" data4="0">Korean News</listing>
-	<listing timeslot="42" type="9" data2="34" data3="0" data4="0">Paid Programming</listing>
-	<listing timeslot="45" type="9" data2="34" data3="0" data4="0">To Be Announced</listing>
-</channel>
-<channel number="63" name="TOON">
-	<listing timeslot="19" type="1" data2="34" data3="0" data4="0" rating="G">Smurfs </listing>
-	<listing timeslot="20" type="1" data2="34" data3="0" data4="0" rating="G">Smurfs </listing>
-	<listing timeslot="21" type="1" data2="34" data3="0" data4="0" rating="G">Flintstones </listing>
-	<listing timeslot="22" type="1" data2="34" data3="0" data4="0" rating="G">Jetsons </listing>
-	<listing timeslot="23" type="1" data2="19" data3="0" data4="0" rating="G">Acme Hour </listing>
-	<listing timeslot="25" type="1" data2="19" data3="0" data4="0">Captain Planet and the Planeteers “</listing>
-	<listing timeslot="26" type="1" data2="19" data3="0" data4="0">Jonny Quest “</listing>
-	<listing timeslot="27" type="1" data2="19" data3="0" data4="0">Sailor Moon “</listing>
-	<listing timeslot="28" type="1" data2="19" data3="0" data4="0">Reboot “</listing>
-	<listing timeslot="29" type="1" data2="19" data3="0" data4="0">Dragon Ball Z “</listing>
-	<listing timeslot="30" type="1" data2="19" data3="0" data4="0">Ronin Warriors</listing>
-	<listing timeslot="31" type="1" data2="19" data3="0" data4="0">Batman “</listing>
-	<listing timeslot="32" type="1" data2="19" data3="0" data4="0" rating="G">Scooby, Where Are You? </listing>
-	<listing timeslot="33" type="1" data2="19" data3="0" data4="0" rating="Y">Scooby-Doo </listing>
-	<listing timeslot="34" type="1" data2="19" data3="0" data4="0" rating="G">Dexter's Laboratory </listing>
-	<listing timeslot="35" type="1" data2="19" data3="0" data4="0" rating="G">Ed, Edd n Eddy </listing>
-	<listing timeslot="36" type="1" data2="19" data3="0" data4="0">Cow &amp; Chicken “</listing>
-	<listing timeslot="37" type="1" data2="19" data3="0" data4="0" rating="G">Bugs 'n' Daffy </listing>
-	<listing timeslot="39" type="1" data2="19" data3="0" data4="0" rating="G">Tom and Jerry </listing>
-	<listing timeslot="40" type="1" data2="34" data3="0" data4="0" rating="G">Flintstones </listing>
-	<listing timeslot="41" type="1" data2="19" data3="0" data4="0" rating="G">Ed, Edd n Eddy </listing>
-	<listing timeslot="42" type="1" data2="19" data3="0" data4="0">Cow &amp; Chicken “</listing>
-	<listing timeslot="43" type="1" data2="19" data3="0" data4="0">Batman “</listing>
-	<listing timeslot="44" type="1" data2="19" data3="0" data4="0">Dragon Ball Z “</listing>
-	<listing timeslot="45" type="1" data2="19" data3="0" data4="0" rating="G">Bugs 'n' Daffy </listing>
-	<listing timeslot="47" type="1" data2="34" data3="0" data4="0" rating="G">Flintstones </listing>
-	<listing timeslot="48" type="1" data2="19" data3="0" data4="0" rating="Y">Scooby-Doo </listing>
-</channel>
-<channel number="64" name="2ESPN">
-	<listing timeslot="19" type="1" data2=".5" data3="0" data4="0">Worldwide Soccer</listing>
-	<listing timeslot="20" type="1" data2=".5" data3="0" data4="0">ASA In-Line Tour Best Wrecks</listing>
-	<listing timeslot="21" type="1" data2=".5" data3="0" data4="0">In Line Skating: ASA Pro Tour World Team Challenge (Taped Delay)</listing>
-	<listing timeslot="23" type="1" data2=".5" data3="0" data4="0">Sports News</listing>
-	<listing timeslot="24" type="1" data2="34" data3="0" data4="0">Sportsman's Quest</listing>
-	<listing timeslot="25" type="1" data2=".5" data3="0" data4="0">Legends of the Road</listing>
-	<listing timeslot="26" type="1" data2=".5" data3="0" data4="0">Motocross: Freestyle Moto-X (Taped Delay)</listing>
-	<listing timeslot="27" type="1" data2=".5" data3="0" data4="0">Rodeo: National Finals (Taped Delay)</listing>
-	<listing timeslot="31" type="1" data2=".5" data3="0" data4="0">Bowling: PBA Japan Cup (Taped Delay)</listing>
-	<listing timeslot="34" type="1" data2=".5" data3="0" data4="0">Bodybuilding: Fitness Universe Pageant (Taped Delay)</listing>
-	<listing timeslot="37" type="1" data2=".5" data3="0" data4="0">Friday Night Fights: Harris-St. Clair (junior welterweights) (Taped Delay)</listing>
-	<listing timeslot="41" type="1" data2=".5" data3="0" data4="0">Arm Wrestling: Pro Football Team competition (Taped Delay)</listing>
-	<listing timeslot="42" type="1" data2=".5" data3="0" data4="0">NFL's Greatest Moments</listing>
-	<listing timeslot="43" type="1" data2=".5" data3="0" data4="0">Up Close</listing>
-	<listing timeslot="44" type="1" data2=".5" data3="0" data4="0">Motoworld</listing>
-	<listing timeslot="45" type="1" data2=".5" data3="0" data4="0">Cheerleading Competition: Division III National High-School Championship (Taped Delay)</listing>
-	<listing timeslot="46" type="1" data2=".5" data3="0" data4="0">Cheerleading: National High School Championships (Taped Delay)</listing>
-	<listing timeslot="47" type="1" data2=".5" data3="0" data4="0">Cheerleading Competition: National All-Star Championships (Taped Delay)</listing>
-
-	<notice>Fridays in December, ESPN will reveal the top 10 of the "50 Greatest Athletes of all time on SportsCenter. Check the listings for times</notice>
-</channel>
-<channel number="65" name="FNC">
-	<listing timeslot="19" type="1" data2="34" data3="0" data4="0">News</listing>
-	<listing timeslot="21" type="1" data2="34" data3="0" data4="0">Your World with Neil Cavuto</listing>
-	<listing timeslot="25" type="1" data2="22" data3="0" data4="0">Special Report with Brit Hume</listing>
-	<listing timeslot="27" type="1" data2="34" data3="0" data4="0">The Fox Report</listing>
-	<listing timeslot="29" type="1" data2="22" data3="0" data4="0">O'Reilly Factor</listing>
-	<listing timeslot="31" type="1" data2="22" data3="0" data4="0">Hannity and Colmes</listing>
-	<listing timeslot="33" type="1" data2="22" data3="0" data4="0">The Edge with Paula Zahn</listing>
-	<listing timeslot="35" type="1" data2="34" data3="0" data4="0">O'Reilly Factor</listing>
-	<listing timeslot="37" type="1" data2="22" data3="0" data4="0">Special Report with Brit Hume</listing>
-	<listing timeslot="39" type="1" data2="34" data3="0" data4="0">Your World with Neil Cavuto</listing>
-	<listing timeslot="41" type="1" data2="22" data3="0" data4="0">Hannity and Colmes</listing>
-	<listing timeslot="43" type="1" data2="22" data3="0" data4="0">The Edge with Paula Zahn</listing>
-	<listing timeslot="45" type="1" data2="22" data3="0" data4="0">O'Reilly Factor</listing>
-	<listing timeslot="47" type="1" data2="34" data3="0" data4="0">Your World with Neil Cavuto</listing>
-</channel>
-<channel number="66" name="APTDC1">
-	<listing timeslot="19" type="1" data2="34" data3="0" data4="0" rating="G">Petsburgh USA </listing>
-	<listing timeslot="20" type="1" data2="34" data3="0" data4="0" rating="G">Breed All About It </listing>
-	<listing timeslot="21" type="1" data2="34" data3="0" data4="0" rating="G">Lassie </listing>
-	<listing timeslot="22" type="1" data2="34" data3="0" data4="0" rating="G">Crocodile Hunter's Croc Files </listing>
-	<listing timeslot="23" type="1" data2="34" data3="0" data4="0" rating="G">Judge Wapner's Animal Court </listing>
-	<listing timeslot="24" type="1" data2="34" data3="0" data4="0" rating="G">Judge Wapner's Animal Court </listing>
-	<listing timeslot="25" type="1" data2="34" data3="0" data4="0" rating="G">Zig &amp; Zag: Alpha Dog Challenge </listing>
-	<listing timeslot="26" type="1" data2="34" data3="0" data4="0" rating="G">Pet Project </listing>
-	<listing timeslot="27" type="1" data2="34" data3="0" data4="0" rating="G">Planet's Funniest Animals </listing>
-	<listing timeslot="28" type="1" data2="34" data3="0" data4="0" rating="G">Aquanauts </listing>
-	<listing timeslot="29" type="1" data2="34" data3="0" data4="0">Call of the Wild</listing>
-	<listing timeslot="31" type="1" data2="34" data3="0" data4="0" rating="G">Celebrity Crusaders </listing>
-	<listing timeslot="33" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Emergency Vets </listing>
-	<listing timeslot="34" type="1" data2="34" data3="0" data4="0">Wild Rescues</listing>
-	<listing timeslot="35" type="1" data2="34" data3="0" data4="0">Call of the Wild</listing>
-	<listing timeslot="37" type="1" data2="34" data3="0" data4="0" rating="G">Celebrity Crusaders </listing>
-	<listing timeslot="39" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Emergency Vets </listing>
-	<listing timeslot="40" type="1" data2="34" data3="0" data4="0">Wild Rescues</listing>
-	<listing timeslot="41" type="1" data2="34" data3="0" data4="0" rating="G">Planet's Funniest Animals </listing>
-	<listing timeslot="42" type="1" data2="34" data3="0" data4="0" rating="G">Aquanauts </listing>
-	<listing timeslot="43" type="1" data2="34" data3="0" data4="0" rating="G">Lassie </listing>
-	<listing timeslot="44" type="1" data2="34" data3="0" data4="0">Timmy and Lassie</listing>
-	<listing timeslot="45" type="1" data2="34" data3="0" data4="0">Jeff's Collie</listing>
-	<listing timeslot="46" type="1" data2="34" data3="0" data4="0">Gentle Ben</listing>
-	<listing timeslot="47" type="1" data2="34" data3="0" data4="0" rating="G">Skippy </listing>
-	<listing timeslot="48" type="1" data2="34" data3="0" data4="0">Flipper</listing>
-</channel>
-<channel number="67" name="TNT002">
-	<listing timeslot="17" type="movie" data2="1" data3="4" data4="0" rating="TV-PG">"Pee-wee's Big Adventure"  (1985) Paul Reubens, Elizabeth Daily. Pee-wee Herman searches for his missing bicycle. (1 hr 30 min)</listing>
-	<listing timeslot="21" type="movie" data2="1" data3="5" data4="0" rating="TV-PG">"Short Circuit"  (1986) Ally Sheedy, Steve Guttenberg. A sophisticated robot accidentally lands at the home of an animal lover. (1 hr 39 min)</listing>
-	<listing timeslot="25" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Kung Fu: The Legend Continues </listing>
-	<listing timeslot="27" type="1" data2="34" data3="0" data4="0">L.A. Heat</listing>
-	<listing timeslot="29" type="1" data2="34" data3="0" data4="0" rating="TV-PG">In the Heat of the Night </listing>
-	<listing timeslot="31" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Due South </listing>
-	<listing timeslot="33" type="1" data2="34" data3="0" data4="0">ER</listing>
-	<listing timeslot="35" type="1" data2=".5" data3="0" data4="0">WCW Wrestling</listing>
-	<listing timeslot="37" type="1" data2=".5" data3="0" data4="0">WCW Wrestling</listing>
-	<listing timeslot="39" type="1" data2=".5" data3="0" data4="0">WCW Wrestling</listing>
-	<listing timeslot="41" type="movie" data2="1" data3="4" data4="0">"Who's the Man?" (1993) Ed Lover, Doctor Dre. Two barbers turned cops investigate a gentrification scheme in Harlem. (1 hr 25 min)</listing>
-	<listing timeslot="45" type="1" data2=".5" data3="0" data4="0">WCW Wrestling</listing>
-	<listing timeslot="47" type="1" data2=".5" data3="0" data4="0">WCW Wrestling</listing>
-</channel>
-<channel number="68" name="PAX010">
-	<listing timeslot="19" type="1" data2="34" data3="0" data4="0">Paid Programming</listing>
-	<listing timeslot="20" type="1" data2="34" data3="0" data4="0">Paid Programming</listing>
-	<listing timeslot="21" type="1" data2="34" data3="0" data4="0">Big Valley</listing>
-	<listing timeslot="23" type="1" data2="34" data3="0" data4="0">Bonanza</listing>
-	<listing timeslot="25" type="1" data2="34" data3="0" data4="0">Dr. Quinn, Medicine Woman</listing>
-	<listing timeslot="27" type="1" data2="34" data3="0" data4="0">Hogan Family</listing>
-	<listing timeslot="28" type="1" data2="34" data3="0" data4="0">Dave's World</listing>
-	<listing timeslot="29" type="1" data2="34" data3="0" data4="0">Touched by an Angel</listing>
-	<listing timeslot="31" type="1" data2="34" data3="0" data4="0" rating="G">Supermarket Sweep </listing>
-	<listing timeslot="32" type="1" data2="34" data3="0" data4="0">Shop 'til You Drop</listing>
-	<listing timeslot="33" type="1" data2="34" data3="0" data4="0">Treasures in Your Home</listing>
-	<listing timeslot="35" type="1" data2="34" data3="0" data4="0">Hope Island</listing>
-	<listing timeslot="37" type="1" data2="34" data3="0" data4="0" rating="G">Touched by an Angel </listing>
-	<listing timeslot="39" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Diagnosis Murder </listing>
-	<listing timeslot="41" type="1" data2="34" data3="0" data4="0">Twice in a Lifetime</listing>
-	<listing timeslot="43" type="1" data2="34" data3="0" data4="0">Paid Programming</listing>
-	<listing timeslot="44" type="1" data2="34" data3="0" data4="0">Paid Programming</listing>
-	<listing timeslot="45" type="1" data2="34" data3="0" data4="0">Worship</listing>
-</channel>
-<channel number="69" name="THC">
-	<listing timeslot="19" type="1" data2="34" data3="0" data4="0" rating="G">In Search Of... </listing>
-	<listing timeslot="20" type="1" data2="34" data3="0" data4="0" rating="G">In Search Of... </listing>
-	<listing timeslot="21" type="1" data2="34" data3="0" data4="0" rating="TV-PG">FBI: The Untold Stories </listing>
-	<listing timeslot="22" type="1" data2="34" data3="0" data4="0" rating="TV-PG">History's Crimes and Trials </listing>
-	<listing timeslot="23" type="1" data2="34" data3="0" data4="0" rating="G">Weapons at War </listing>
-	<listing timeslot="25" type="1" data2="34" data3="0" data4="0" rating="G">Frontier: Legends of the Old Northwest </listing>
-	<listing timeslot="27" type="1" data2="34" data3="0" data4="0" rating="TV-PG">Pope Pius XII and the Holocaust </listing>
-	<listing timeslot="29" type="1" data2="34" data3="0" data4="0" rating="G">History's Mysteries </listing>
-	<listing timeslot="31" type="1" data2="34" data3="0" data4="0" rating="G">History's Greatest Blunders </listing>
-	<listing timeslot="33" type="1" data2="34" data3="0" data4="0" rating="G">Modern Marvels </listing>
-	<listing timeslot="35" type="1" data2="34" data3="0" data4="0" rating="G">History's Lost and Found </listing>
-	<listing timeslot="37" type="1" data2="34" data3="0" data4="0" rating="G">History's Mysteries </listing>
-	<listing timeslot="39" type="1" data2="34" data3="0" data4="0" rating="G">History's Greatest Blunders </listing>
-	<listing timeslot="41" type="1" data2="34" data3="0" data4="0" rating="G">Modern Marvels </listing>
-	<listing timeslot="43" type="1" data2="34" data3="0" data4="0" rating="G">History's Lost and Found </listing>
-	<listing timeslot="45" type="1" data2="34" data3="0" data4="0" rating="G">History's Mysteries </listing>
-	<listing timeslot="47" type="1" data2="34" data3="0" data4="0" rating="G">Year by Year </listing>
-</channel>
-<channel number="94" name="GOLF">
-	<listing timeslot="27" type="1" data2=".5" data3="0" data4="0">Golf Channel Academy</listing>
-	<listing timeslot="28" type="1" data2=".5" data3="0" data4="0">Golf Central</listing>
-	<listing timeslot="29" type="1" data2=".5" data3="0" data4="0">Golf Talk Live</listing>
-	<listing timeslot="31" type="1" data2=".5" data3="0" data4="0">Golf Channel Academy</listing>
-	<listing timeslot="32" type="1" data2=".5" data3="0" data4="0">Leaderboard Report</listing>
-	<listing timeslot="33" type="1" data2=".5" data3="0" data4="0">Masters Highlights</listing>
-	<listing timeslot="35" type="1" data2=".5" data3="0" data4="0">Golf Central</listing>
-	<listing timeslot="36" type="1" data2=".5" data3="0" data4="0">Golf Channel Academy</listing>
-	<listing timeslot="37" type="1" data2=".5" data3="0" data4="0">Golf Talk Live</listing>
-	<listing timeslot="39" type="1" data2=".5" data3="0" data4="0">Golf Channel Academy</listing>
-	<listing timeslot="40" type="1" data2=".5" data3="0" data4="0">Leaderboard Report</listing>
-	<listing timeslot="41" type="1" data2=".5" data3="0" data4="0">Masters Highlights</listing>
-	<listing timeslot="43" type="1" data2=".5" data3="0" data4="0">Golf Channel Academy</listing>
-	<listing timeslot="44" type="1" data2=".5" data3="0" data4="0">Golf Central</listing>
-	<listing timeslot="45" type="1" data2="34" data3="0" data4="0">Paid Programming</listing>
-	<listing timeslot="46" type="1" data2=".5" data3="0" data4="0">Golf Central</listing>
-	<listing timeslot="47" type="1" data2="34" data3="0" data4="0">Paid Programming</listing>
-	<listing timeslot="48" type="1" data2="34" data3="0" data4="0">Paid Programming</listing>
-</channel>
-<channel number="95" name="TWC001">
-	<listing timeslot="19" type="1" data2="22" data3="0" data4="0">The Weather Channel</listing>
-	<listing timeslot="25" type="1" data2="22" data3="0" data4="0">The Weather Channel</listing>
-</channel>
-<channel number="96" name="SPI001">
-	<listing timeslot="18" type="movie" rating="adult" data2="1" data3="1" data4="0">"Extreme Close Up: Taylor Hayes"  (1 hr 30 min)</listing>
-	<listing timeslot="21" type="movie" rating="adult" data2="1" data3="1" data4="0">"Bodyslammin' 2: Down &amp; Dirty"  (1 hr 30 min)</listing>
-	<listing timeslot="24" type="movie" rating="adult" data2="1" data3="1" data4="0">"PU Lines: Water Beauties" (1999)  (1 hr 30 min)</listing>
-	<listing timeslot="27" type="movie" rating="adult" data2="1" data3="1" data4="0">"Talk Dirty to Me #11" (1999)  (1 hr 30 min)</listing>
-	<listing timeslot="30" type="movie" rating="adult" data2="1" data3="1" data4="0">"Naughty Angels" (1999)  (1 hr 30 min)</listing>
-	<listing timeslot="33" type="movie" rating="adult" data2="1" data3="1" data4="0">"Sex Safari" (1999)  (1 hr 30 min)</listing>
-	<listing timeslot="36" type="movie" rating="adult" data2="1" data3="1" data4="0">"Dangerous Lady" (1998)  (1 hr 30 min)</listing>
-	<listing timeslot="39" type="movie" rating="adult" data2="1" data3="1" data4="0">"Couch Tales" (1999)  (1 hr 30 min)</listing>
-	<listing timeslot="42" type="movie" rating="adult" data2="1" data3="1" data4="0">"Extreme Close Up: Taylor Hayes"  (1 hr 30 min)</listing>
-	<listing timeslot="45" type="movie" rating="adult" data2="1" data3="1" data4="0">"Bodyslammin' 2: Down &amp; Dirty"  (1 hr 30 min)</listing>
-	<listing timeslot="48" type="movie" rating="adult" data2="1" data3="1" data4="0">"PU Lines: Water Beauties" (1999)  (1 hr 30 min)</listing>
-
-	<notice>Spice will feature an alternate audio feed (music) between the hours of 6am-10pm. This is to comply with Section 505 of the 1996 Telecommunications Act</notice>
-</channel>
-<channel number="97" name="YV1002">
-	<listing timeslot="18" rating="R" type="movie" data2="1." data3="." data4=".">The Blair Witch Project"  (1999) Heather Donahue, Michael Williams. Independent hit about student filmmakers who are terrorized in the forest. (1 hr 21 min)</listing>
-	<listing timeslot="21" type="movie" rating="PG-13" data2="1" data3="4" data4="0">"10 Things I Hate About You"  (1999) Heath Ledger, Julia Stiles. A popular high-schooler is forbidden to date until her sister finds a beau. (1 hr 38 min)</listing>
-	<listing timeslot="25" rating="R" type="movie" data2="1" data3="5" data4="0">"Life"  (1999) Eddie Murphy, Martin Lawrence. Two men are jailed in 1932 Mississippi for a murder they didn't commit. (1 hr 49 min)</listing>
-	<listing timeslot="29" type="movie" rating="PG-13" data2="1" data3="5" data4="0">"Life Is Beautiful"  (1998) Roberto Benigni, Nicoletta Braschi. Dubbed version of a tale of a man and his son enduring concentration-camp life. (1 hr 57 min)</listing>
-	<listing timeslot="33" rating="R" type="movie" data2="1" data3="9" data4="0">"The Blair Witch Project"  (1999) Heather Donahue, Michael Williams. Independent hit about student filmmakers who are terrorized in the forest. (1 hr 21 min)</listing>
-	<listing timeslot="36" rating="R" type="movie" data2="1" data3="4" data4="0">"Election"  (1999) Matthew Brodderick, Reese Witherspoon. A teacher tries to thwart an overachiever in a high-school election. (1 hr 44 min)</listing>
-	<listing timeslot="40" type="movie" rating="PG-13" data2="1" data3="9" data4="0">"The Mummy"  (1999) Brendan Fraser, Rachel Weisz. A treasure-seeker unwittingly unleashes a 3000-year-old mummy. (2 hrs 5 min)</listing>
-	<listing timeslot="45" rating="R" type="movie" data2="1" data3="18" data4="0">"The Matrix"  (1999) Keanu Reeves, Laurence Fishburne. Dazzling special effects frame a compelling story about a hacker on the run. (2 hrs 28 min)</listing>
-
-	<notice>Order "The Blair Witch Project", "Election", or "Life is Beautiful", this month using Easy Touch Pay Per View and get $1 off the price - pay only $2.95! Watch Sneak Prevue for play dates and times</notice>
 </channel>
 <channel noticeonly="noticeonly">
 	<notice>TS99 Networks, Inc</notice>
